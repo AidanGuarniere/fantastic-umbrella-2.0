@@ -1,1 +1,1 @@
-# fantastic-umbrella-2.0
+# Fantastic Umbrella 2.0
